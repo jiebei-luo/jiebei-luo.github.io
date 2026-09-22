@@ -42,15 +42,6 @@ permalink: /about/
 <p><strong>Assistant Professor of Library and Information Studies</strong><br>University of Oklahoma, 2026–present</p>
 </div>
 
-<div class="section-card">
-<h3>Previous academic library experience</h3>
-<ul>
-<li>Financial and Economic Data Analysis Librarian, New York University, 2022–2026</li>
-<li>Data Services Librarian, Boston College, 2019–2022</li>
-<li>Data and Scholarly Communication/Reference Librarian, Skidmore College, 2014–2019</li>
-</ul>
-</div>
-
 {% if site.data.grants %}
 <div class="section-card">
 <h3>Grants</h3>
@@ -72,3 +63,12 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
+
+<div class="section-card">
+<h3>Previous academic library experience</h3>
+<ul>
+<li>Financial and Economic Data Analysis Librarian, New York University, 2022–2026</li>
+<li>Data Services Librarian, Boston College, 2019–2022</li>
+<li>Data and Scholarly Communication/Reference Librarian, Skidmore College, 2014–2019</li>
+</ul>
+</div>
