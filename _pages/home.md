@@ -9,7 +9,7 @@ permalink: /
 
 {{ site.title }}, {{ site.institution }}
 
-I study how people discover, evaluate, and use data—and how academic libraries can design more effective instruction and services around those behaviors.
+I study how people discover, evaluate, and use data, and how academic libraries can design more effective instruction and services around those behaviors.
 
 My research connects data-seeking behavior, data and AI literacy, research data stewardship, and evidence-based library practice. I also use machine learning and natural language processing to study library services at scale.
 
