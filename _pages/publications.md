@@ -1,11 +1,11 @@
 ---
-title: "Publications"
+title: "Research"
 layout: gridlay
 sitemap: false
 permalink: /publications/
 ---
 
-## Publications
+## Research
 
 <div class="section-card">
 <h3>Manuscript in revision</h3>
