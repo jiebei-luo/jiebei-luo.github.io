@@ -31,6 +31,26 @@ permalink: /about/
 </div>
 </div>
 
+<div class="section-card">
+<h3>Biography</h3>
+<p>Jiebei Luo is an Assistant Professor in the School of Library and Information Studies at the University of Oklahoma. Before joining OU, she worked as an academic librarian at New York University, Boston College, and Skidmore College, supporting data-intensive research and teaching across the social sciences and business disciplines.</p>
+<p>Her research focuses on data-seeking behaviors and library support, data literacy instruction and LIS education, and data science and artificial intelligence applications in library services, including AI literacy and competency for librarians.</p>
+</div>
+
+<div class="section-card">
+<h3>Academic appointment</h3>
+<p><strong>Assistant Professor of Library and Information Studies</strong><br>University of Oklahoma, 2026–present</p>
+</div>
+
+<div class="section-card">
+<h3>Previous academic library experience</h3>
+<ul>
+<li>Financial and Economic Data Analysis Librarian, New York University, 2022–2026</li>
+<li>Data Services Librarian, Boston College, 2019–2022</li>
+<li>Data and Scholarly Communication/Reference Librarian, Skidmore College, 2014–2019</li>
+</ul>
+</div>
+
 {% if site.data.grants %}
 <div class="section-card">
 <h3>Grants</h3>
@@ -50,27 +70,5 @@ permalink: /about/
 <li>{{ award.name | replace: "-","&#8211;" }}</li>
 {% endfor %}
 </ul>
-</div>
-{% endif %}
-
-{% if site.data.people %}
-<div class="section-card">
-<h3>Students and Mentoring</h3>
-<ul>
-{% for student in site.data.people %}
-<li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
-
-{% if site.data.funders %}
-<div class="section-card">
-<h4>Sponsors</h4>
-<div class="sponsor-logos" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: var(--space-6);">
-{% for funder in site.data.funders %}
-<a href="{{ funder.url }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}" alt="Funder logo" style="max-height: 80px; max-width: 200px; border-radius: 0;" loading="lazy"></a>
-{% endfor %}
-</div>
 </div>
 {% endif %}

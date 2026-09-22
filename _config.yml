@@ -5,7 +5,7 @@ name: "Jiebei Luo"
 title: "Assistant Professor"
 institution: "University of Oklahoma"
 email: jiebei.luo@ou.edu
-photo: ""
+photo: "jiebei-luo.png"
 
 # ============================================================
 # STEP 2: Your Links
@@ -16,7 +16,7 @@ links:
   researchgate: ""
   orcid: ""
   twitter: ""
-  linkedin: ""
+  linkedin: "https://www.linkedin.com/in/jiebei-luo/"
   cv: ""
 
 # ============================================================
@@ -31,8 +31,12 @@ url: "https://jiebei-luo.github.io"
 analytics:
   google_id: ""
 
-# Additional pages will be added when their content is ready.
-nav_pages: []
+nav_pages:
+  - name: about
+  - name: research
+  - name: publications
+  - name: teaching
+  - name: service
 
 # ============================================================
 # Advanced Settings
