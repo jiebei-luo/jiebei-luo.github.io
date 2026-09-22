@@ -3,10 +3,10 @@
 # Delete this file if you only need the basics.
 
 - education:
-    - "(2026) PhD, Library and Information Science, Simmons University"
-    - "(2021) MS, Analytics, Georgia Institute of Technology"
-    - "(2014) MLIS, Library and Information Science, Rutgers University"
-    - "(2006) BS, Logistics and Supply Chain Management, Tongji University"
+    - "PhD, Library and Information Science, Simmons University, 2026"
+    - "MS, Analytics, Georgia Institute of Technology, 2021"
+    - "MLIS, Library and Information Science, Rutgers University, 2014"
+    - "BS, Logistics and Supply Chain Management, Tongji University, 2006"
   educationshort:
     - "PhD, Simmons University"
     - "MS, Georgia Institute of Technology"
