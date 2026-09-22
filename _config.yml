@@ -34,6 +34,7 @@ analytics:
 nav_pages:
   - name: about
   - name: publications
+    label: Research
   - name: teaching
   - name: service
 
