@@ -30,6 +30,13 @@ permalink: /publications/
 </div>
 
 <div class="section-card">
+<h3>Refereed Conference Proceedings</h3>
+<ul>
+<li><strong>Luo, J.</strong>, &amp; Oh, K. E. (2026). Mapping evidence work in academic libraries: Preliminary findings from an ongoing content analysis. In <em>Proceedings of the 26th ACM/IEEE Joint Conference on Digital Libraries</em> (pp. 1–3). Association for Computing Machinery. <a href="https://doi.org/10.1145/3805696.3846491">https://doi.org/10.1145/3805696.3846491</a></li>
+</ul>
+</div>
+
+<div class="section-card">
 <h3>Book chapters</h3>
 <ul>
 <li><strong>Luo, J.</strong>, &amp; Brissett, A. (2025). Utilizing Prodigy: Collaborative library assessment projects with advanced natural language processing in Python. In <em>Text and Data Mining Literacy for Librarians</em>, 265–282. ACRL.</li>
