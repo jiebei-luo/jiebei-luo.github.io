@@ -23,3 +23,6 @@ My research connects data-seeking behavior, data and AI literacy, research data 
 ### News
 
 **October 2026** — My paper with Kyong Eun Oh, [“Mapping Evidence Work in Academic Libraries: Preliminary Findings from an Ongoing Content Analysis,”](https://doi.org/10.1145/3805696.3846491) was published in the proceedings of JCDL 2026.
+
+
+**September 2026** — I am serving as Co-PI on “Creating a Multiple-Literacy Scale to Enhance Academic Library Instructional Services,” an IMLS-funded project led by Yunfei Du at the University of North Texas (2026–2029).
