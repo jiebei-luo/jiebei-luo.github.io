@@ -8,8 +8,11 @@ permalink: /service/
 ## Service
 
 <div class="section-card">
-<h3>Advising and dissertation committees</h3>
-<ul><li>Xue Pan, Dissertation Committee Member, PhD in Information Studies, University of Oklahoma, 2026–present</li></ul>
+<h3>Advising and dissertation committees</h3><ul>
+<li>Xue Pan, Dissertation Committee Member, PhD in Information Studies, University of Oklahoma, 2026–present</li>
+<li>Ziyang Xu, Doctoral Dissertation Committee Member</li>
+<li>Obinna Ojemeni, Doctoral Committee Member, School of Library and Information Studies, University of Oklahoma</li>
+</ul>
 </div>
 
 <div class="section-card">
