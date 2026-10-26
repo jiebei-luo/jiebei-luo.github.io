@@ -23,5 +23,5 @@ My research connects data-seeking behavior, data and AI literacy, research data 
 
 **October 2026** — [Paper on evidence work in academic libraries](https://doi.org/10.1145/3805696.3846491), co-authored with Dr. Kyong Eun Oh, published in JCDL 2026 proceedings.
 
-**September 2026** — Co-PI on an IMLS-funded multiple-literacy assessment project with the University of North Texas (2026–2029). [OU announcement](https://www.ou.edu/cas/slis/news/articles/2026/september/dr-luo-named-co-pi-on-imls-funded-research-project).
+**September 2026** — Co-PI on an IMLS-funded multiple-literacy assessment project led by Dr. Yunfei Du at the University of North Texas (2026–2029). [OU announcement](https://www.ou.edu/cas/slis/news/articles/2026/september/dr-luo-named-co-pi-on-imls-funded-research-project).
 
