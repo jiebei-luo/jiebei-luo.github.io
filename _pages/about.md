@@ -34,8 +34,8 @@ permalink: /about/
 
 <div class="section-card">
 <h3>Biography</h3>
-<p>Jiebei Luo is an Assistant Professor in the School of Library and Information Studies at the University of Oklahoma. Before joining OU, she worked as an academic librarian at New York University, Boston College, and Skidmore College, supporting data-intensive research and teaching across the social sciences and business disciplines.</p>
-<p>Her research focuses on data-seeking behaviors and library support, data literacy instruction and LIS education, and data science and artificial intelligence applications in library services, including AI literacy and competency for librarians.</p>
+<p>I am an Assistant Professor in the School of Library and Information Studies at the University of Oklahoma. Before joining OU, I worked as an academic librarian at New York University, Boston College, and Skidmore College, supporting data-intensive research and teaching across the social sciences and business disciplines.</p>
+<p>My research focuses on data-seeking behaviors and library support, data literacy instruction and LIS education, and applications of data science and artificial intelligence in library services, including AI literacy and competency for librarians.</p>
 </div>
 
 <div class="section-card">
